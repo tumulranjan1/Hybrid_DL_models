@@ -1,4 +1,4 @@
-#Implementation of Hybrid Models for better Image Classification results
+# Implementation of Hybrid Models for better Image Classification results
 
 Dataset Used - [COVID19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
